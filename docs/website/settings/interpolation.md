@@ -18,4 +18,4 @@ Interpolation is unlikely to make these projects look smoother because interpola
 
 Interpolation can introduce slight (up to 1/30th of a second) input latency.
 
-You may see some graphical glitches on complex projects such as scrolling platformers.
+You may see some graphical glitches on complex projects such as scrolling platformers.     kjbhhjgyhsdhifhewimfoshdfsdfkljfijwiew
